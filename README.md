@@ -1,3 +1,2 @@
 # BMW-sales-data-
-## This is my new excel project BMW Sales
-
+## This is my new excel project about Sales
